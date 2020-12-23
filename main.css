@@ -1,0 +1,31 @@
+body
+{
+background-color:#d6e0f0;
+}/* колір фону*/
+hr {
+  background-color: #d6e0f0;
+  border-style: dotted none none;
+  border-color:#6A5ACD;
+  border-width:15px;
+  height: 15px;
+  width: 100px;
+  /* параметри встановлюються на всі hr*/
+}
+.cursive
+{
+  font-family: sans-serif;
+}
+.img
+{
+  background-image: #6A5ACD;
+  height:80%;
+  width:60%;
+}
+.blueh3
+{
+  color:#4A0BBF;
+}
+.text
+{
+  text-decoration: none;
+}
